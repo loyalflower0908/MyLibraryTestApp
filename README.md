@@ -10,7 +10,7 @@
 
 - 안드로이드 라이브러리 모듈(mylibrary)에서 작성한 기능 함수를
 - 앱 모듈(app)에서 의존성 추가 후 호출.
-- Jetpack Compose를 사용하여 UI를 구성.
+- Jetpack Compose를 사용하여 라이브러리를 테스트하는 UI를 구성.
 - AGP 8.8+(Android Gradle Plugin), Java 17 환경에서 빌드.
 
 ## 요구 사항 (Requirements)
